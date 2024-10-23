@@ -2,7 +2,7 @@ package main
 
 import (
 	"encoding/json"
-	"go-crud/models"
+	"go-products-manager/models"
 	"log"
 	"net/http"
 
