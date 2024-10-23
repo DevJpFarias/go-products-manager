@@ -1,4 +1,4 @@
-module go-crud
+module go-products-manager
 
 go 1.21.1
 
